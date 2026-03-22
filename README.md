@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Olá! Eu sou o Kaique Eduardo
 
-<!--
-**edukaique-06/edukaique-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://dynamic-badges.vercel.app/api/card?title=Software%20Developer&subtitle=Em%20estudo...&theme=tokyonight&line1=Foco%20em%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&line2=Em%20busca%20de%20Est%C3%A1gio&avatar=github)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+🎓 Estudante de **Ciência da Computação**.
+📚 Atualmente focado em aprimorar minha lógica de programação e arquitetura de código.
+🔍 Buscando oportunidade de **estágio** para ganhar experiência prática em desenvolvimento.
+🛡️ Objetivo de carreira: Adquirir conhecimentos sólidos em **Cybersecurity**.
+✨ Muito esforçado e dedicado em me superar a cada novo desafio.
+
+---
+
+## Ferramentas e Tecnologias
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+</div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[edukaique-06]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</div>
