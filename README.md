@@ -1,7 +1,5 @@
 # 👨‍💻 Olá! Eu sou o Kaique Eduardo
 
-![Banner](https://dynamic-badges.vercel.app/api/card?title=Software%20Developer&subtitle=Em%20estudo...&theme=tokyonight&line1=Foco%20em%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&line2=Em%20busca%20de%20Est%C3%A1gio&avatar=github)
-
 ---
 
 ## Sobre Mim
