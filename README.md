@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL / MySQL" />
 </div>
 
 ---
