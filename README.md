@@ -17,8 +17,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
