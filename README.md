@@ -25,3 +25,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+## Atividade no GitHub
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+
+</div>
