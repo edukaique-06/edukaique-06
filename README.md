@@ -11,13 +11,9 @@
 
 
 🎓 Estudante de **Ciência da Computação**.
-
 📚 Atualmente focado em aprimorar minha lógica de programação e aprender o básico sobre a área de cybersecurity.
-
 🔍 Buscando oportunidade de **estágio** para ganhar experiência prática em desenvolvimento.
-
 🛡️ Objetivo de carreira: Adquirir conhecimentos sólidos em **Cybersecurity** e seguir carreira nessa área.
-
 ✨ Muito esforçado e dedicado em me superar a cada novo desafio.
 
 
@@ -31,23 +27,14 @@
 
 
 <div align="left">
-
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-
   &nbsp;
-
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-
   &nbsp;
-
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-
   &nbsp;
-
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL / MySQL" />
-
 </div>
-
 
 
 ---
