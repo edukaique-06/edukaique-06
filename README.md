@@ -10,11 +10,11 @@
 
 
 
-🎓 Estudante de **Ciência da Computação**.
-📚 Atualmente focado em aprimorar minha lógica de programação e aprender o básico sobre a área de cybersecurity.
-🔍 Buscando oportunidade de **estágio** para ganhar experiência prática em desenvolvimento.
-🛡️ Objetivo de carreira: Adquirir conhecimentos sólidos em **Cybersecurity** e seguir carreira nessa área.
-✨ Muito esforçado e dedicado em me superar a cada novo desafio.
+-🎓 Estudante de **Ciência da Computação**.
+-📚 Atualmente focado em aprimorar minha lógica de programação e aprender o básico sobre a área de cybersecurity.
+-🔍 Buscando oportunidade de **estágio** para ganhar experiência prática em desenvolvimento.
+-🛡️ Objetivo de carreira: Adquirir conhecimentos sólidos em **Cybersecurity** e seguir carreira nessa área.
+-✨ Muito esforçado e dedicado em me superar a cada novo desafio.
 
 
 
