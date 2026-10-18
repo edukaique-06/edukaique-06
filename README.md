@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&background=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+Mundo!+👋+Sou+o+Kaique+Eduardo;Estudante+de+Ciência+da+Computação;Focado+em+Dev+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+Mundo!+👋+Sou+o+Kaique+Eduardo;Estudante+de+Ciência+da+Computação;Focado+em+Dados+%26+Cybersecurity" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,8 +19,8 @@
 ## 💻 Sobre Mim
 
 * 🎓 **Estudante de Ciência da Computação** (atualmente no 3º período na PUC Goiás).
-* 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível e fundamentos de **Cybersecurity**.
-* 🎯 **Objetivo Profissional:** Busco oportunidade de **estágio em Governança de Dados ou Cibersegurança** para gerar impacto prático e evoluir tecnicamente.
+* 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível, banco de dados e fundamentos de cybersegurança.
+* 🎯 **Objetivo Profissional:** Busco oportunidade de **Estágio em Governança de Dados ou Cibersegurança** para gerar impacto prático e evoluir tecnicamente.
 * ⚡ **Filosofia:** Resolução constante de problemas, código limpo e busca por superação a cada novo desafio.
 
 ---
