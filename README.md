@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+Mundo!+👋+Sou+o+Kaique+Eduardo;Estudante+de+Ciência+da+Computação;Focado+em+Dev+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&background=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+Mundo!+👋+Sou+o+Kaique+Eduardo;Estudante+de+Ciência+da+Computação;Focado+em+Dev+%26+Cybersecurity" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 
 * 🎓 **Estudante de Ciência da Computação** (atualmente no 3º período na PUC Goiás).
 * 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível e fundamentos de **Cybersecurity**.
-* 🎯 **Objetivo Profissional:** Busco oportunidade de **estágio em Desenvolvimento de Software ou Cibersegurança** para gerar impacto prático e evoluir tecnicamente.
+* 🎯 **Objetivo Profissional:** Busco oportunidade de **estágio em Governança de Dados ou Cibersegurança** para gerar impacto prático e evoluir tecnicamente.
 * ⚡ **Filosofia:** Resolução constante de problemas, código limpo e busca por superação a cada novo desafio.
 
 ---
@@ -30,7 +30,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
