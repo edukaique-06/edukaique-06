@@ -18,10 +18,10 @@
 
 ## 💻 Sobre Mim
 
-* 🎓 **Estudante de Ciência da Computação** (atualmente no 3º período na PUC Goiás).
-* 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível e banco de dados.  
-* 🎯 **Objetivo Profissional:** Busco oportunidade de **Estágio na Área de Dados** para gerar impacto prático e evoluir tecnicamente.
-* ⚡ **Filosofia:** Resolução constante de problemas, código limpo e busca por superação a cada novo desafio.
+- 🎓 **Estudante de Ciência da Computação** (atualmente no 3º período na PUC Goiás).
+- 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível e banco de dados.  
+- 🎯 **Objetivo Profissional:** Busco oportunidade de **Estágio na Área de Dados** para gerar impacto prático e evoluir tecnicamente.
+- ⚡ **Filosofia:** Resolução constante de problemas, código limpo e busca por superação a cada novo desafio.
 
 ---
 
@@ -41,7 +41,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edukaique-06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edukaique-06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edukaique-06&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
