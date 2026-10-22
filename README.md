@@ -19,8 +19,8 @@
 ## 💻 Sobre Mim
 
 * 🎓 **Estudante de Ciência da Computação** (atualmente no 3º período na PUC Goiás).
-* 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível, banco de dados e fundamentos de cybersegurança.
-* 🎯 **Objetivo Profissional:** Busco oportunidade de **Estágio em Governança de Dados ou Cibersegurança** para gerar impacto prático e evoluir tecnicamente.
+* 🛡️ **Foco Atual:** Aprimoramento de lógica de programação, estruturas de dados de baixo nível, banco de dados.  
+* 🎯 **Objetivo Profissional:** Busco oportunidade de **Estágio em Governança de Dados** para gerar impacto prático e evoluir tecnicamente.
 * ⚡ **Filosofia:** Resolução constante de problemas, código limpo e busca por superação a cada novo desafio.
 
 ---
